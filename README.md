@@ -3,7 +3,6 @@
 - :zap: I love full stack development, and I am crazy about developing the softwares from scratch
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
-  - :envelope: [Mail](prashantdwivedi194@gmail.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/prasd/)
   - 🌐 [Portfolio](https://prashant-dwivedi.vercel.app/)
 
