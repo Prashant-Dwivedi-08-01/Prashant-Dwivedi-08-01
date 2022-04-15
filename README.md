@@ -7,6 +7,4 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/prasd/)
   - 🌐 [Portfolio](https://prashant-dwivedi.vercel.app/)
 
-[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Dwivedi-08-01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Prashant-Dwivedi-08-01/github-readme-stats)   
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Dwivedi-08-01)](https://github.com/Prashant-Dwivedi-08-01/github-readme-stats) 
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Dwivedi-08-01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Prashant-Dwivedi-08-01/github-readme-stats)  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Dwivedi-08-01" width="205"/>
