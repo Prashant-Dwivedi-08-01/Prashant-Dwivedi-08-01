@@ -7,4 +7,13 @@
   - 🌐 [Portfolio](https://prashant-dwivedi.vercel.app/)
   - :computer: [Dev.to](https://dev.to/prashantdwivedi0801)
 
-[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Dwivedi-08-01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Prashant-Dwivedi-08-01/github-readme-stats)  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Dwivedi-08-01" width="205"/>
+[![Prashant's github stats](https://github-readme-stats.vercel.app/api?username=Prashant-Dwivedi-08-01&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Prashant-Dwivedi-08-01/github-readme-stats)  
+<!-- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant-Dwivedi-08-01" width="205"/> -->
+<p align="left">
+    <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Prashant-Dwivedi-08-01&show_icons=true&locale=en&layout=compact"
+        alt="Prashant-Dwivedi-08-01" height="200" />
+    &ensp; &ensp;
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prashant-Dwivedi-08-01&" alt="Prashant-Dwivedi-08-01"
+        height="200" />
+</p>
